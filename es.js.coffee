@@ -60,6 +60,8 @@ I18n.es =
     load_schema_last_save: "Ultimo guardado"
     load_schema_shared_with_you: "Esquemas compartidos contigo:"
     load_schema_owner: "Propietario"
+    load_schema_no_schemas: "You haven't saved any schemas"
+    load_schema_no_shared_schemas: "There are no schemas shared with you"
     saveas: "Guardar Como"
     saveas_title: "Titulo"
     saveas_button: "Guardar Como"

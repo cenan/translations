@@ -60,6 +60,8 @@ I18n.en =
     load_schema_last_save: "Last Save"
     load_schema_shared_with_you: "Schemas shared with you:"
     load_schema_owner: "Owner"
+    load_schema_no_schemas: "You haven't saved any schemas"
+    load_schema_no_shared_schemas: "There are no schemas shared with you"
     saveas: "Save As"
     saveas_title: "Title"
     saveas_button: "Save As"

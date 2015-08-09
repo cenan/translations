@@ -59,6 +59,8 @@ I18n.ru =
     load_schema_last_save: "Последнее сохранение"
     load_schema_shared_with_you: "Схемы с совместным редактирования.:"
     load_schema_owner: "Создатель"
+    load_schema_no_schemas: "You haven't saved any schemas"
+    load_schema_no_shared_schemas: "There are no schemas shared with you"
     saveas: "Сохранить как"
     saveas_title: "Заголовок"
     saveas_button: "Сохранить"

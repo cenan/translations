@@ -60,6 +60,8 @@ I18n.vi =
     load_schema_last_save: "Lưu lần cuối cùng"
     load_schema_shared_with_you: "Chia sẻ lược đồ với:"
     load_schema_owner: "Chủ sở hữu"
+    load_schema_no_schemas: "You haven't saved any schemas"
+    load_schema_no_shared_schemas: "There are no schemas shared with you"
     saveas: "Lưu như"
     saveas_title: "Tiêu đề"
     saveas_button: "Lưu như"

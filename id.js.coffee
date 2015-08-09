@@ -60,6 +60,8 @@ I18n.id =
     load_schema_last_save: "Terakhir disimpan"
     load_schema_shared_with_you: "Skema yang dibagi bersama Anda:"
     load_schema_owner: "Pemilik"
+    load_schema_no_schemas: "You haven't saved any schemas"
+    load_schema_no_shared_schemas: "There are no schemas shared with you"
     saveas: "Simpan sebagai"
     saveas_title: "Judul"
     saveas_button: "Simpan sebagai"

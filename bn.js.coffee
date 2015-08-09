@@ -60,6 +60,8 @@ I18n.bn =
     load_schema_last_save: "শেষ রক্ষাটি"
     load_schema_shared_with_you: "তোমার সাথে বিতরণ করা স্কিমাগুলো:"
     load_schema_owner: "মালিক"
+    load_schema_no_schemas: "You haven't saved any schemas"
+    load_schema_no_shared_schemas: "There are no schemas shared with you"
     saveas: "... হিসেবে সংরক্ষণ"
     saveas_title: "খেতাব"
     saveas_button: "... হিসেবে সংরক্ষণ"
