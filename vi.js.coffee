@@ -131,6 +131,7 @@ I18n.vi =
     table_save: "Lưu"
     table_cancel: "Hủy bỏ"
     table_delete: "Xóa bảng"
+    table_clone: "Clone Table"
     table_add_field: "Thêm trường"
     field_name: "Tên"
     field_type: "Kiểu"

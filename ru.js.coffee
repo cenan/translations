@@ -131,6 +131,7 @@ I18n.ru =
     table_save: "Сохранить"
     table_cancel: "Отменить"
     table_delete: "Удалить таблицу"
+    table_clone: "Clone Table"
     table_add_field: "Добавить новое поле"
     field_name: "Имя"
     field_type: "Тип"

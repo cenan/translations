@@ -131,6 +131,7 @@ I18n.bn =
     table_save: "রক্ষা"
     table_cancel: "বাতিল"
     table_delete: "টেবিল মোছো"
+    table_clone: "Clone Table"
     table_add_field: "ফিল্ড সংযোজন"
     field_name: "নাম"
     field_type: "ধাঁচ"

@@ -131,6 +131,7 @@ I18n.tr =
     table_save: "Kaydet"
     table_cancel: "İptal"
     table_delete: "Tabloyu Sil"
+    table_clone: "Tabloyu Klonla"
     table_add_field: "Alan Ekle"
     field_name: "İsim"
     field_type: "Tip"

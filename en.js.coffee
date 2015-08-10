@@ -131,6 +131,7 @@ I18n.en =
     table_save: "Save"
     table_cancel: "Cancel"
     table_delete: "Delete Table"
+    table_clone: "Clone Table"
     table_add_field: "Add field"
     field_name: "Name"
     field_type: "Type"

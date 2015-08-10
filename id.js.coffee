@@ -131,6 +131,7 @@ I18n.id =
     table_save: "Simpan"
     table_cancel: "Batalkan"
     table_delete: "Hapus tabel"
+    table_clone: "Clone Table"
     table_add_field: "Tambahkan bidang"
     field_name: "Nama"
     field_type: "Jenis"
