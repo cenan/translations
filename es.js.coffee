@@ -131,7 +131,7 @@ I18n.es =
     table_save: "Guardar"
     table_cancel: "Cancelar"
     table_delete: "Eliminar Tabla"
-    table_clone: "Clone Table"
+    table_clone: "Clonar Tabla"
     table_add_field: "Añadir Campo"
     field_name: "Nombre"
     field_type: "Tipo"
