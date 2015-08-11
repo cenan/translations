@@ -60,7 +60,7 @@ I18n.ru =
     load_schema_shared_with_you: "Схемы с совместным редактирования.:"
     load_schema_owner: "Создатель"
     load_schema_no_schemas: "Вы не сохранили ни одной схемы"
-    load_schema_no_shared_schemas: "Схем, совместным с Вами доступом, нет
+    load_schema_no_shared_schemas: "Схем, совместным с Вами доступом, нет"
     saveas: "Сохранить как"
     saveas_title: "Заголовок"
     saveas_button: "Сохранить"
