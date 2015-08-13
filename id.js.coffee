@@ -20,6 +20,8 @@ I18n.id =
     hide_minimap: "Sembunyikan minimap"
     show_sidebar: "Perlihatkan sidebar"
     hide_sidebar: "Sembunyikan sidebar"
+    show_grid: "Show Grid"
+    hide_grid: "Hide Grid"
     sort_items: "Urutkan item"
     linetype: "Jenis garis"
     bezier: "Melengkung"

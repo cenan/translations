@@ -20,6 +20,8 @@ I18n.vi =
     hide_minimap: "Ẩn Minimap"
     show_sidebar: "Hiển thị Sidebar"
     hide_sidebar: "Ẩn Sidebar"
+    show_grid: "Show Grid"
+    hide_grid: "Hide Grid"
     sort_items: "Sắp xếp Items"
     linetype: "Kiểu đường"
     bezier: "Cong"

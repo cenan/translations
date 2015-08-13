@@ -20,6 +20,8 @@ I18n.en =
     hide_minimap: "Hide Minimap"
     show_sidebar: "Show Sidebar"
     hide_sidebar: "Hide Sidebar"
+    show_grid: "Show Grid"
+    hide_grid: "Hide Grid"
     sort_items: "Sort Items"
     linetype: "Line Type"
     bezier: "Bezier"

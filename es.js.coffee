@@ -20,6 +20,8 @@ I18n.es =
     hide_minimap: "Ocultar Minimapa"
     show_sidebar: "Mostrar Barra Lateral"
     hide_sidebar: "Ocultar Barra Lateral"
+    show_grid: "Show Grid"
+    hide_grid: "Hide Grid"
     sort_items: "Ordenar Artículos"
     linetype: "Tipo de Línea"
     bezier: "Curva"

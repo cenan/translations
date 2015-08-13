@@ -20,6 +20,8 @@ I18n.ru =
     hide_minimap: "Скрыть миникарту"
     show_sidebar: "Показать боковую панель"
     hide_sidebar: "Скрыть боковую панель"
+    show_grid: "Show Grid"
+    hide_grid: "Hide Grid"
     sort_items: "Сортировать элементы"
     linetype: "Тип линий"
     bezier: "Безье"

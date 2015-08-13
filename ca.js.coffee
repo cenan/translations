@@ -20,6 +20,8 @@ I18n.ca =
     hide_minimap: "Amaga minimapa"
     show_sidebar: "Mostra Barra Lateral"
     hide_sidebar: "Amaga Barra Lateral"
+    show_grid: "Show Grid"
+    hide_grid: "Hide Grid"
     sort_items: "Ordenar Articles"
     linetype: "Tipus de Línia"
     bezier: "Corba"

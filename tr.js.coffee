@@ -20,6 +20,8 @@ I18n.tr =
     hide_minimap: "Haritayı Gizle"
     show_sidebar: "Yan Paneli Göster"
     hide_sidebar: "Yan Paneli Gizle"
+    show_grid: "Mazgalı göster"
+    hide_grid: "Mazgalı gizle"
     sort_items: "Sırala"
     linetype: "Çizgi Şekli"
     bezier: "Bezier"

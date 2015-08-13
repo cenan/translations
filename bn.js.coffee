@@ -20,6 +20,8 @@ I18n.bn =
     hide_minimap: "মিনিম্যাপ লুকাও"
     show_sidebar: "সাইডবার দেখাও"
     hide_sidebar: "সাইডবার লুকাও"
+    show_grid: "Show Grid"
+    hide_grid: "Hide Grid"
     sort_items: "আইটেমগুলো গুছাও"
     linetype: "লাইনের ধরন"
     bezier: "বেজিয়ের"
