@@ -126,6 +126,7 @@ I18n.en =
     user_settings_save: "Save Changes"
     login: "Login"
     close: "Close"
+    back: "Back"
   designer:
     save_note_edit: "Save"
     cancel_note_edit: "Cancel"

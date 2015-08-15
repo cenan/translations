@@ -126,6 +126,7 @@ I18n.tr =
     user_settings_save: "Değişiklikleri Kaydet"
     login: "Giriş"
     close: "Kapat"
+    back: "Geri"
   designer:
     save_note_edit: "Kaydet"
     cancel_note_edit: "İptal"

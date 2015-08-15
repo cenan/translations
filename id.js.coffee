@@ -126,6 +126,7 @@ I18n.id =
     user_settings_save: "Simpan perubahan"
     login: "Masuk"
     close: "Tutup"
+    back: "Back"
   designer:
     save_note_edit: "Simpan"
     cancel_note_edit: "Batalkan"

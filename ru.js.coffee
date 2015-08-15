@@ -126,6 +126,7 @@ I18n.ru =
     login: "Логин"
     close: "Закрыть"
     settings: "Параметры"
+    back: "Back"
   designer:
     save_note_edit: "Сохранить"
     cancel_note_edit: "Отменить"

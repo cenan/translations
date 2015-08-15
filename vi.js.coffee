@@ -126,6 +126,7 @@ I18n.vi =
     user_settings_save: "Lưu thay đổi"
     login: "Đăng nhập"
     close: "Đóng"
+    back: "Back"
   designer:
     save_note_edit: "Lưu"
     cancel_note_edit: "Hủy bỏ"

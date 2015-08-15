@@ -126,6 +126,7 @@ I18n.ca =
     user_settings_save: "Desa els Canvis"
     login: "Iniciar Sessió"
     close: "Tancar"
+    back: "Back"
   designer:
     save_note_edit: "Desa"
     cancel_note_edit: "Cancel·la"

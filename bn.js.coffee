@@ -126,6 +126,7 @@ I18n.bn =
     user_settings_save: "পরিবর্তন রক্ষা কর"
     login: "লগ ইন"
     close: "বন্ধ"
+    back: "Back"
   designer:
     save_note_edit: "রক্ষা"
     cancel_note_edit: "বাতিল"
