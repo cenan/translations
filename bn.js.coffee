@@ -131,6 +131,8 @@ I18n.bn =
     save_note_edit: "রক্ষা"
     cancel_note_edit: "বাতিল"
     delete_note: "মোছো"
+    table_name: "Table Name"
+    table_comment: "Table Comment"
     table_save: "রক্ষা"
     table_cancel: "বাতিল"
     table_delete: "টেবিল মোছো"

@@ -131,6 +131,8 @@ I18n.es =
     save_note_edit: "Guardar"
     cancel_note_edit: "Cancelar"
     delete_note: "Eliminar"
+    table_name: "Table Name"
+    table_comment: "Table Comment"
     table_save: "Guardar"
     table_cancel: "Cancelar"
     table_delete: "Eliminar Tabla"

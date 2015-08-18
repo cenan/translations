@@ -131,6 +131,8 @@ I18n.vi =
     save_note_edit: "Lưu"
     cancel_note_edit: "Hủy bỏ"
     delete_note: "Xóa"
+    table_name: "Table Name"
+    table_comment: "Table Comment"
     table_save: "Lưu"
     table_cancel: "Hủy bỏ"
     table_delete: "Xóa bảng"

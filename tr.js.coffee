@@ -131,6 +131,8 @@ I18n.tr =
     save_note_edit: "Kaydet"
     cancel_note_edit: "İptal"
     delete_note: "Sil"
+    table_name: "Tablo Adı"
+    table_comment: "Tablo Yorumu"
     table_save: "Kaydet"
     table_cancel: "İptal"
     table_delete: "Tabloyu Sil"

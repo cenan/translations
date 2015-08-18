@@ -131,6 +131,8 @@ I18n.ca =
     save_note_edit: "Desa"
     cancel_note_edit: "Cancel·la"
     delete_note: "Esborrar"
+    table_name: "Table Name"
+    table_comment: "Table Comment"
     table_save: "Desa"
     table_cancel: "Cancel·la"
     table_delete: "Esborra Taula"

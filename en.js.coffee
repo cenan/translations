@@ -131,6 +131,8 @@ I18n.en =
     save_note_edit: "Save"
     cancel_note_edit: "Cancel"
     delete_note: "Delete"
+    table_name: "Table Name"
+    table_comment: "Table Comment"
     table_save: "Save"
     table_cancel: "Cancel"
     table_delete: "Delete Table"

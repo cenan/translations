@@ -131,6 +131,8 @@ I18n.id =
     save_note_edit: "Simpan"
     cancel_note_edit: "Batalkan"
     delete_note: "Hapus"
+    table_name: "Table Name"
+    table_comment: "Table Comment"
     table_save: "Simpan"
     table_cancel: "Batalkan"
     table_delete: "Hapus tabel"
