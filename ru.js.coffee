@@ -39,6 +39,7 @@ I18n.ru =
     guest: "Гость"
     login: "Авторизоваться"
     logout: "Выйти"
+    settings: "Параметры"
   panel:
     history: "История"
     last_versions_label: "Последние 10 версий схемы:"
@@ -125,7 +126,6 @@ I18n.ru =
     user_settings_save: "Сохранить изменения"
     login: "Логин"
     close: "Закрыть"
-    settings: "Параметры"
     back: "Назад"
   designer:
     save_note_edit: "Сохранить"
