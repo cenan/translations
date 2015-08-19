@@ -126,7 +126,7 @@ I18n.es =
     user_settings_save: "Guardar Cambios"
     login: "Iniciar Sesión"
     close: "Cerrar"
-    back: "Back"
+    back: "Atrás"
   designer:
     save_note_edit: "Guardar"
     cancel_note_edit: "Cancelar"
