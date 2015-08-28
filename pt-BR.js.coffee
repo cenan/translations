@@ -1,4 +1,4 @@
-I18n.en =
+I18n.pt_br =
   menu:
     schema: "Esquema"
     new: "Novo ..."
