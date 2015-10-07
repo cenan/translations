@@ -1,4 +1,4 @@
-I18n.en =
+I18n.nl =
   menu:
     schema: "Schema"
     new: "Nieuw ..."
