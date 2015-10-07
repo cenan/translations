@@ -2,7 +2,7 @@ I18n.en =
   menu:
     schema: "Schema"
     new: "Nieuw ..."
-    load: "Laad ..."
+    load: "Laden ..."
     save: "Opslaan"
     save_as: "Opslaan Als ..."
     templates: "Templates ..."
