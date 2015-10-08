@@ -1,4 +1,4 @@
-I18n.en =
+I18n.kn =
   menu:
     schema: "ಸ್ಕೀಮಾ"
     new: "ಹೊಸ"
